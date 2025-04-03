@@ -6,6 +6,9 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
+h1{
+    text-align: center;
+}
 #palette-1-heading{
     color: #6564DB;
     background-color: #6564DB;

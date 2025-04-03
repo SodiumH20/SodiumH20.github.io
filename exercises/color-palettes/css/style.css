@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+#palette-1-heading{
+    color: #6564DB;
+    background-color: #6564DB;
+    text-decoration: underline;
+    text-align: center;
+    font-family:fantasy;
+}
+#palette-1color-1{
+    background-color: #6564DB;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    padding: 24px;
+    font-family:fantasy;
+}
+#palette-2-heading{
+    background-color: #232ED1;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    
+
+    
+}
+#palette-2color-2{
+    background-color: #232ED1;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    padding: 24px
+}
+#palette-3-heading{
+    background-color: #89D2Dc;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#palette-3color-3{
+    background-color: #89D2Dc;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 24px;
+}

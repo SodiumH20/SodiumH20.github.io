@@ -25,11 +25,10 @@ margin: 20px;
 #pic2{
     width: 100%;
     margin-top: 100px;
-    border: 10px solid red;
     background-color: pink;
-    border: 5px solid firebrick;
+    border: 5px solid brown;
     border-radius: 5px;
-  
+    padding: 2%;
 }
 
 #pic3{

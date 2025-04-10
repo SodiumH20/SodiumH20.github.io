@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.Mac {
+    background-color: darkgreen;
+    width: 50%;
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.color-1 {
+    background-color: darkgreen;
+    padding: 80px 0px;
+}
+#h2-1{
+    margin-left: 100px;
+}
+#h4-1 {
+    margin-left: 100px;
+}
+
+.Soul {
+    background-color: lightblue;
+    width: 50%;
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.color-2 {
+    background-color: lightblue;
+    padding: 80px 0px;
+}
+#h2-2{
+    margin-left: 100px;
+}
+#h4-2 {
+    margin-left: 100px;
+}
+
+.Pok {
+    background-color: darkred;
+    width: 50%;
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.color-3 {
+    background-color: darkred;
+    padding: 80px 0px;
+}
+#h2-3{
+    margin-left: 100px;
+}
+
+#h4-3{
+    margin-left: 100px;
+}
+
+.Deep {
+    background-color: purple;
+    width: 50%;
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.color-4 {
+    background-color: purple;
+    padding: 80px 0px;
+}
+
+#h2-4{
+    margin: 100px;
+}
+#h4-4 {
+    color: black;
+}
+
+#h4-4 {
+    margin: 100px;
+}

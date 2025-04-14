@@ -1,0 +1,41 @@
+div#page {
+    border:10px solid #f6ca4f;
+    background-color: #c6d0d2;
+    width:755px;
+    margin:0 auto;
+    padding:5px;
+    text-align:left;
+  }
+  div {
+    text-align:center;
+  }
+  div#header {
+    border:8px solid #f6ca4f;
+    
+    width:750px;
+    height:90px;
+  }
+  div#menu {
+    border:10px solid #e63b1b;
+    background-color: #f6ca4f;
+    width:200px;
+    float:left;
+    margin:10px 0 10px 5px;
+    height:350px;
+  }
+  div#content {
+    border:10px solid #c6d0d2;
+    background-color: gray;
+    width:500px;
+    margin:10px 0 10px 235px;
+    min-height:500px;
+    
+  }
+  div#footer {
+    border:10px solid red;
+    width:750px;
+    height:30px;
+  }
+  body{
+    background-color: gray;
+  }

@@ -1,41 +1,45 @@
-body {
-	margin: 0px;
-	font-family: sans-serif;
-	background-color: gray;
+  body {
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: gray;
 }
-#gird-layout {
-	display: grid;
+
+  #gird-layout{
+    display: grid;
 }
-div#page {
-	border: 10px solid white;
-	background-color: white;
-	width: 755px;
-	margin: auto;
-	padding: 5px;
-	text-align: left;
-}
-#header {
-	border: 8px solid white;
-	background-color: antiquewhite;
-	border-radius: 20px 20px 20px 20px;
-	text-align: center;
-}
-#menu {
-	border: 10px solid #e63b1b;
-	background-color: white;
-	width: 200px;
-	float: left;
-	margin: 10px 0 10px 5px;
-	height: 350px;
-	border-radius: 50px 50px 50px 50px;
-}
-#content {
-	border: 10px solid white;
-	background-color: antiquewhite;
-	width: 700px;
-	margin: 10px 0 10px 235px;
-	border-radius: 20px 20px 20px 20px;
-}
-img {
-	border-radius: 50px 50px 50px 5px;
-}
+  #page {
+    border:10px solid white;
+    background-color: white;
+    width:755px;
+    margin: auto;
+    padding:5px;
+    text-align:left;
+  }
+  
+  #header {
+    border:8px solid white;
+    background-color: antiquewhite;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+  }
+  #menu {
+    border:10px solid #e63b1b;
+    background-color: white;
+    width:200px;
+    float:left;
+    margin:10px 0 10px 5px;
+    height:350px;
+    border-radius: 50px 50px 50px 50px;
+  }
+  #content {
+    border:10px solid white;
+    background-color: antiquewhite;
+    width:700px;
+    margin:10px 0 10px 235px;
+    border-radius: 20px 20px 20px 20px;
+    
+  }
+  img {
+    border-radius: 50px 50px 50px 5px;
+    
+  }

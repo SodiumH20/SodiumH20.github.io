@@ -64,7 +64,8 @@ body {
 #hero-2 h4 {
     font-size: 24px;
     position: absolute;
-    right: 20%;
+    text-align: center;
+    right: 40%;
     bottom: 62%;
     margin-bottom: 6px;
     color: rgb(28, 29, 28);

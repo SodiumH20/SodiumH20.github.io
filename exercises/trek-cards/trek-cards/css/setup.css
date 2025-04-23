@@ -24,8 +24,8 @@ body {
     align-items: flex-start;
 }
 
-#section-1 .example-card {
-    max-width: 350px;
+#trek-card-1 {
+    max-width: 420px;
     margin: 16px;
     box-shadow: 4px 4px 8px #00000088;
 }

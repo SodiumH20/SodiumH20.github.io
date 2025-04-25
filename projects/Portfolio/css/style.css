@@ -22,7 +22,7 @@ body {
 	text-decoration: none;
 	font-size: 17px;
 }
-  .thenav a:hover {
+.thenav a:hover {
 	background-color: white;
 	color: rgb(0, 0, 0);
 	text-decoration: underline;
@@ -34,19 +34,20 @@ body {
   }
 
 #port {
-	background-image: url(../images/urban-hi-res-1ui7.jpg);
+	background-image: url(../images/urban-hi-res-2nse.jpg);
 	height: 80vh;
 	box-shadow: inset 0px 0px 30px 12px rgb(37, 29, 29);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
-    position: relative;
-    display: flex;
+
 }
 #port #port-2 {
 	position: absolute;
 	top: 35%;
-	left: 15%;
+	margin: auto;
+  width: 50%;
+  padding: 10px;
 	font-size: 72px;
 	color: white;
 	text-align: center;
@@ -81,18 +82,22 @@ body {
     margin-bottom: 35px;
     border-radius: 2px;
 }
+.foot-block{
+	display: flex;
+    flex-direction: row;
+}
 .foot{
-	text-align: center;
+	display: flex;
+	justify-content: space-evenly;
     margin: 20px 80px;
 	display: flex;
-    justify-content: center;
     background-color: rgb(54, 43, 43);
     padding: 10px;
 }
 .foot a {
 	color: white;
 	text-align: center;
-	padding: 20px 16px;
+	padding: 20px 100px;
 	text-decoration: none;
 	font-size: 17px;
   }
@@ -110,6 +115,7 @@ body {
   }
 h2{
 	color: white;
+	text-align: center;
 }
 .button {
 	background-color: #ffffff;

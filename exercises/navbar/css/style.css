@@ -22,6 +22,13 @@ body {
     color: white;
     padding: 24px;
 }
+.nav-2{
+    color: rgb(77, 104, 228);
+    background-color: bisque;
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+}
 #nav-2 a {
     text-decoration: none;
     color: white;
@@ -36,19 +43,7 @@ body {
     margin-right: auto;
 }
 
-#nav-2 .button {
-    background-color: white;
-    color: green;
-    border-radius: 36px;
-    padding: 16px 24px;
-    font-size: 20px;
-    font-weight: bold;
-    min-width: 150px;
-    text-align: center;
-    margin-right: 24px;
-}
-
-#nav-2-L {
+#nav-2 {
     width: 800px;
     margin: 48px auto;
     font-size: 24px;
@@ -60,14 +55,88 @@ body {
     top: 0px;
 }
 
-#nav-2-bottom {
-    background-color: yellowgreen;
+#nav-2-b {
+    background-color: rgb(173, 175, 16);
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
-#nav-2-bottom a {
+#nav-2- a {
     text-decoration: none;
     color: white;
     padding: 12px 36px;
+}#nav-2-b a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+#nav-2-b a:hover {
+    background-color: white;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    font-weight: bold;
+}
+.cta-buttom {
+    background-color: rgb(75, 53, 53);
+    color: green;
+    border-radius: 36px;
+    padding: 16px 24px;
+    font-size: 20px;
+    font-weight: bold;
+    min-width: 150px;
+    text-align: center;
+    margin-right: 24px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: white;
+    padding: 24px;
+}
+
+#navbar #logo img {
+    width: 150px;
+}
+
+#navbar .cta-buttom {
+    background-color: white;
+    color: green;
+    border-radius: 36px;
+    padding: 16px 24px;
+    font-size: 20px;
+    font-weight: bold;
+    min-width: 150px;
+    text-align: center;
+    margin-right: 24px;
+}
+
+#layout {
+    width: 600px;
+    margin: 48px auto;
+    font-size: 24px;
+    height: 150vh;
+}
+#layout h2{
+  color: brown;
+}
+.navbar-2{
+    background-color: bisque;
 }

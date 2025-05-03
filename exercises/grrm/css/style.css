@@ -354,10 +354,6 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 13px;
 }
-
-/**************************************************************
-    Blog (Main) Styling
-**************************************************************/
 #main {
     margin-right: 12px;
     padding: 8px;
@@ -404,9 +400,6 @@ body {
     margin: 48px 0px;
 }
 
-/**************************************************************
-    Footer/Bottom Styling
-**************************************************************/
 #footer {
     background: radial-gradient(ellipse 50% 80% at bottom center, #00000033, #00000000);
     border-width: 0px 0px 2px;

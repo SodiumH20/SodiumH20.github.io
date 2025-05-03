@@ -42,11 +42,11 @@ body {
 #navbar #links {
     display: flex;
 }
-.dropdown-container {
+.drop-container {
     position: relative;
 }
 
-.dropdown-menu {
+.drop-menu {
     position: absolute;
     opacity: 0;
     visibility: hidden;
@@ -55,12 +55,12 @@ body {
         visibility 0.25s;
     z-index: 10;
 }
-.dropdown-container:hover .dropdown-menu {
+.drop-container:hover .dropdown-menu {
     opacity: 1;
     visibility: visible;
 }
 
-.dropdown-menu a {
+.drop-menu a {
     background-color: #3d3d3d;
     width: 100%;
     min-width: 200px;
@@ -82,9 +82,8 @@ body {
     height: 60vh;
     position: relative;
     background-image: url("../images/raccoon\ back.png");
-}
-    
-.hero-volunteer {
+} 
+.hero-contact {
     background-size: cover;
     background-position: center 20%;
     height: 60vh;

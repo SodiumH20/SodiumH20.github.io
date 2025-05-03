@@ -35,8 +35,12 @@ body {
     padding-bottom: 15px;
 
 }
-#navbar #logo i {
-    transform: rotate(45deg);
+#navbar #bar {
+    margin-right: auto;
+    font-weight: bold;
+    font-size: 36px;
+    padding-top: 13px;
+    padding-bottom: 12px;
 }
 
 #navbar #links {

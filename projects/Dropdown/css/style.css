@@ -8,12 +8,11 @@ body {
     background-color: #444444;
 }
 #navbar {
-    background-color: #0f0f0f;
+    background-color: #464646;
     border-bottom: 10px solid #ffffff;
     display: flex;
     align-items: center;
 }
-
 #navbar a {
     display: inline-block;
     text-decoration: none;
@@ -28,25 +27,21 @@ body {
     background-color: #000000;
 }
 
-#navbar #bar {
+#navbar #logo {
     margin-right: auto;
-    font-size: 45px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-
+    font-weight: bold;
+    font-size: 36px;
+    padding-top: 13px;
+    padding-bottom: 12px;
 }
-#navbar #logo i {
-    transform: rotate(45deg);
-}
-
 #navbar #links {
     display: flex;
 }
-.drop-container {
+.dropdown-container {
     position: relative;
 }
 
-.drop-menu {
+.dropdown-menu {
     position: absolute;
     opacity: 0;
     visibility: hidden;
@@ -55,12 +50,12 @@ body {
         visibility 0.25s;
     z-index: 10;
 }
-.drop-container:hover .dropdown-menu {
+.dropdown-container:hover .dropdown-menu {
     opacity: 1;
     visibility: visible;
 }
 
-.drop-menu a {
+.dropdown-menu a {
     background-color: #3d3d3d;
     width: 100%;
     min-width: 200px;
@@ -82,8 +77,9 @@ body {
     height: 60vh;
     position: relative;
     background-image: url("../images/raccoon\ back.png");
-} 
-.hero-contact {
+}
+    
+.hero-volunteer {
     background-size: cover;
     background-position: center 20%;
     height: 60vh;
@@ -98,7 +94,6 @@ body {
     margin: 48px auto;
     text-align: center;
 }
-
 h1 {
     font-size: 50px;
     text-align: center;

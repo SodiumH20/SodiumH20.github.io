@@ -109,3 +109,23 @@ p {
 div {
     text-align: center;
 }
+h1{
+    font-size: 50px;
+}
+.two-columns {
+    display: flex;
+    height: 500px;
+    width: 500px;
+}
+.big-text-column,
+.img-column {
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+    
+    .big-text-column {
+    background-color: #8e1a1a;color: rgb(0, 0, 0);font-size: 28px;}
+    
+    .column-content {
+    margin: 48px;text-align: center;}

@@ -152,7 +152,7 @@ img {
     width: 33.33%;
     padding: 5px;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 850px) {
     #navbar {
         flex-direction: column;
         align-items: center;

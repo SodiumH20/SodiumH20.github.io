@@ -1,8 +1,39 @@
-/*
-    NOTE TO STUDENTS: 
-
-    This is the file you should be writing your CSS in 
-    for the Generic License assignment.
-
-    Good luck, and have fun!
-*/
+#license {
+    width: 700px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 12px;
+    padding: 24px; 
+}
+#left-side {
+    display: inline-block; 
+    width: 65%;
+}
+#right-side {
+    width: 100%;
+    display: inline-block; 
+    width: 34%;
+}
+#id-and-expiration {
+    display: inline-block;
+}
+#small-pic {
+    display: inline-block; 
+}
+#data-fields {
+    display: inline-block;
+}
+#small-pic-container {
+    width: 12;
+}
+#data-left {
+    display: inline-block;
+}
+#data-right {
+    display: inline-block;
+}
+#signature {
+    text-align: center;
+}
+#real-id {
+    display: inline-block;
+}

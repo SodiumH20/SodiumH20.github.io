@@ -3,18 +3,20 @@
     height: 160px;
     box-shadow: 0 3px 2px black;
     float: left;
-    margin: 8px;
+    margin: 12px;
     border: 1px solid black;
     background-color: #CBFAFA;
+    margin-top: 21%;
 }
 .note-2 {
     width: 160px;
     height: 160px;
     box-shadow: 0 3px 2px black;
     float: left;
-    margin: 82px;
+    margin: 132px;
     border: 1px solid black;
     background-color: #9827f5;
+    margin-top: 21%;
 }
 .note-3 {
     width: 160px;

@@ -1,0 +1,47 @@
+.note-1 {
+    width: 160px;
+    height: 160px;
+    box-shadow: 0 3px 2px black;
+    float: left;
+    margin: 8px;
+    border: 1px solid black;
+    background-color: #CBFAFA;
+}
+.note-2 {
+    width: 160px;
+    height: 160px;
+    box-shadow: 0 3px 2px black;
+    float: left;
+    margin: 82px;
+    border: 1px solid black;
+    background-color: #9827f5;
+}
+.note-3 {
+    width: 160px;
+    height: 160px;
+    box-shadow: 0 3px 2px black;
+    float: left;
+    margin: 3px;
+    border: 1px solid black;
+    background-color: #08a148;
+}
+.note-4 {
+    box-shadow: 0 3px 2px black;
+    float: left;
+    border: 1px solid black;
+    background-color: #ffe602;
+    object-fit: fill;
+}
+img {
+    width: 160px;
+    height: 160px;  
+    object-fit: fill;
+}
+.text {
+    margin: 10px; 
+    padding: 4px;
+    font-weight: bolder;
+}
+body {
+    text-align: center;
+}

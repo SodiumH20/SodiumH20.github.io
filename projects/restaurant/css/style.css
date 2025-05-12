@@ -7,10 +7,6 @@ body {
 	background-color: #7E5E25;
 	color: white;
 }
-.content-column {
-	width: 800px;
-	margin: 0px auto;
-}
 .logo {
 	display: flex;
 	flex-direction: column;
@@ -321,6 +317,7 @@ h1 {
 	width: 800px;
 	margin: 0px auto;
 }
+
 @media screen and (max-width: 850px) {
     #navbar {
         flex-direction: column;

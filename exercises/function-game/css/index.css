@@ -25,7 +25,7 @@ body {
     background-image: url('../images/grass.png');
 }
 .grid-block.rock {
-    background-image: url('../images/rock.png');
+    background-image: url('../images/bad.png');
 }
 .grid-block.gravel {
     background-image: url('../images/gravel.png');
